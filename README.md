@@ -1,5 +1,7 @@
 # React/Redux proof-of-concept app that utilizes Web Workers to take the load off UI thread to manage part of the state.
 
+## [Live Example](https://ardi-n.github.io/react-redux-web-workers-sample-app/dist/index2.html)
+
 ## The Problem
 
 I wanted to tackle a specific problem: is it possible to 
